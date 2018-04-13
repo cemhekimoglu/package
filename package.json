@@ -1,0 +1,14 @@
+{
+  "name": "hekim",
+  "version": "1.0.0",
+  "description": "for npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cem hekimoglu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
